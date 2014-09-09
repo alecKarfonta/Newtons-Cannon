@@ -1,0 +1,68 @@
+
+solarSystem.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cannon
+  rotate: false
+  xy: 1284, 565
+  size: 720, 432
+  orig: 720, 432
+  offset: 0, 0
+  index: -1
+cannonBall
+  rotate: false
+  xy: 1284, 184
+  size: 371, 379
+  orig: 371, 379
+  offset: 0, 0
+  index: -1
+earth
+  rotate: false
+  xy: 2, 2
+  size: 255, 255
+  orig: 255, 255
+  offset: 0, 0
+  index: -1
+itsFullOfStars
+  rotate: false
+  xy: 2, 277
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+moon
+  rotate: false
+  xy: 1657, 300
+  size: 258, 263
+  orig: 258, 263
+  offset: 0, 0
+  index: -1
+slider
+  rotate: false
+  xy: 1657, 218
+  size: 30, 80
+  orig: 30, 80
+  offset: 0, 0
+  index: -1
+sliderBar
+  rotate: false
+  xy: 2, 259
+  size: 1000, 16
+  orig: 1000, 16
+  offset: 0, 0
+  index: -1
+sliderBarVert
+  rotate: false
+  xy: 2006, 805
+  size: 16, 192
+  orig: 16, 192
+  offset: 0, 0
+  index: -1
+sliderVert
+  rotate: false
+  xy: 1004, 259
+  size: 31, 16
+  orig: 31, 16
+  offset: 0, 0
+  index: -1
